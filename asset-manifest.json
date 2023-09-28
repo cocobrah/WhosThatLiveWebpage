@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.200d5adc.css",
+    "main.css": "/static/css/main.a2208da9.css",
     "main.js": "/static/js/main.c2a8622e.js",
     "static/media/confetti.png": "/static/media/confetti.d15c1a3891a2a3aa47cd.png",
+    "static/media/Pokemon Solid.ttf": "/static/media/Pokemon Solid.5d60be1f7ff5fcc21fc1.ttf",
     "index.html": "/index.html",
-    "main.200d5adc.css.map": "/static/css/main.200d5adc.css.map",
+    "main.a2208da9.css.map": "/static/css/main.a2208da9.css.map",
     "main.c2a8622e.js.map": "/static/js/main.c2a8622e.js.map"
   },
   "entrypoints": [
-    "static/css/main.200d5adc.css",
+    "static/css/main.a2208da9.css",
     "static/js/main.c2a8622e.js"
   ]
 }
